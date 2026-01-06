@@ -1,0 +1,17 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI temporary files
+*.pbi*
+*.tmp
+
+# Python / notebooks (future-proofing)
+__pycache__/
+*.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
